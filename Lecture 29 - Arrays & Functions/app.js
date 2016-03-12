@@ -1,1 +1,3 @@
-dsdsfsdfsdf
+var a = function() {
+  console.log('Test');
+}
