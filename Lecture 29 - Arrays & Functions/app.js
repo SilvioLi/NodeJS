@@ -1,1 +1,4 @@
-var a = 0;
+var a = function() {
+  console.log('Test');
+}
+
