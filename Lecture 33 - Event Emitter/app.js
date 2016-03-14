@@ -12,3 +12,5 @@ emtr.on('greet', function() {
 
 console.log('Hello!');
 emtr.emit('greet');
+
+
